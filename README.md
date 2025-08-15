@@ -1,16 +1,13 @@
-## Hi there 👋
+<!-- Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=6C63FF&width=600&lines=Hi,+I'm+Matt!;Welcome+to+my+GitHub+profile" alt="Typing SVG" />
+</p>
 
-<!--
-**matt-minev/matt-minev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Fun section: random quote or joke -->
+<div align="center">
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=matt-minev&layout=compact&langs_count=6&theme=dark&hide_border=true" height="150" />
+</div>
